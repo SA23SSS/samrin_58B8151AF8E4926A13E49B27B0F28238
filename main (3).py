@@ -1,5 +1,5 @@
 class Bank_Account:
-  def __init__(self):
+  def _init_(self):
       self.balance=0
       print("Hello!!! Welcome to the Deposit & Withdrawal Machine")
 
